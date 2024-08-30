@@ -1,5 +1,9 @@
 # Periorbital Segmentation and Distance Measurement Package
 
+## Install the package at the below link:
+
+https://pypi.org/project/periorbital-package/
+
 ## Table of Contents
 
 - [Background](#background)
