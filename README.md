@@ -131,7 +131,7 @@ When you run the periorbital pipeline, the following outputs are returned:
 
 ## Cite Us
 
-If you found this package useful, please check back here for updates as we release our paper. In the meantime, feel free to star this repository (TODO: UPDATE THIS)
+If you found this package useful, please check back here for updates as we release our paper. In the meantime, feel free to star this repository.
 
 
 ## References
